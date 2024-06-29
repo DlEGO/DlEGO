@@ -25,16 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/}juandiegosuarez22">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%7Djuandiegosuarez22&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DlEGO/DlEGO/output/snake.svg" alt="Snake animation" />
-
-###
